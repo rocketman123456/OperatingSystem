@@ -1,3 +1,3 @@
 set_project("operating_system")
 
-includes("fork_test")
+includes("ch05.fork_test")
